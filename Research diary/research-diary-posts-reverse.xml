@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+  <title>Research Diary Import</title>
+  <link>https://example.com</link>
+  <description>Imported posts from Research Diary HTML</description>
+  <language>en</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[zhiyuan]]></wp:author_login>
+    <wp:author_email><![CDATA[admin@example.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Zhiyuan]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Zhiyuan]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Xi]]></wp:author_last_name>
+  </wp:author>
+
+    <item>
+      <title>2025 Jan 4 — Daily Thoughts</title>
+      <pubDate>Sat, 04 Jan 2025 15:24:42 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Jan 4 15:24:42.803568</h3>
+<p>
+    Happy New Year!
+</p>
+<p>
+    Another few days without diary. Just because I literally haven't 
+    done anything these days. I have been packing up and planning my 
+    trip back to China.
+</p>
+]]></content:encoded>
+      <wp:post_date>2025-01-04 15:24:42</wp:post_date>
+      <wp:post_date_gmt>2025-01-04 15:24:42</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 28 — Daily Thoughts</title>
+      <pubDate>Sat, 28 Dec 2024 15:15:32 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 28 15:15:32.850032</h3>
+<p>
+    Today just watched the QFT course, very good.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-28 15:15:32</wp:post_date>
+      <wp:post_date_gmt>2024-12-28 15:15:32</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 27 — Daily Thoughts</title>
+      <pubDate>Fri, 27 Dec 2024 12:13:32 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 27 12:13:32.125838</h3>
+<p>
+    I watched the quantum field theory course told by Prof.
+    Hong Liu, very impressive! I should watch more 
+    video forms of courses instead of just reading the 
+    books and learn it by myself. Just reading books is sometimes 
+    misleading. Listenning to a course is more clear for me. 
+</p>
+<p>
+<b>Keep this in mind, and try to watch more videos to learn in the future.</b>
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-27 12:13:32</wp:post_date>
+      <wp:post_date_gmt>2024-12-27 12:13:32</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 25 — Daily Thoughts</title>
+      <pubDate>Wed, 25 Dec 2024 10:43:54 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 25 10:43:54.173522</h3>
+<p>
+    I toyally forgot this thing this few days. Around christmas, I didn't 
+    do so many things, just read some paper about altermagnets. And, it is worth mention that 
+    I have arranged my Zotero and now it's very clear.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-25 10:43:54</wp:post_date>
+      <wp:post_date_gmt>2024-12-25 10:43:54</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 21 — Daily Thoughts</title>
+      <pubDate>Sat, 21 Dec 2024 14:50:40 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 21 14:50:40.509063</h3>
+<p>
+    I just upload my research diary to my personal website! 
+    Very excited.
+</p>
+<p>
+    Also, Today I said goodbye to all the group members. I 
+    am leaving USA very soon. Little sad about that.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-21 14:50:40</wp:post_date>
+      <wp:post_date_gmt>2024-12-21 14:50:40</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 20 — Daily Thoughts</title>
+      <pubDate>Fri, 20 Dec 2024 15:48:54 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 20 15:48:54.019866</h3>
+<p>
+    Today I just read some articles. 
+    I am suprised that Prof.Liao have published many PRL on 
+    Cd3As2.
+</p>
+<p>
+    Also, I have been thinking about the space group and symmetry.
+</p>
+<p>
+    List of today's articles: 
+    <ul>
+<li><a href="https://doi.org/10.1038/ncomms4786">Observation of a three-dimensional topological Dirac semimetal phase in high-mobility Cd3As2</a></li>
+<li><a href="https://doi.org/10.1038/s41586-024-07211-8">Dual quantum spin Hall insulator by
+            density-tuned correlations in TaIrTe4</a></li>
+<li><a href="https://doi.org/10.1103/PhysRevLett.124.116802">Electric Control of Fermi Arc Spin Transport in Individual Topological Semimetal Nanowires</a>
+<li><a href="https://doi.org/10.1103/PhysRevLett.122.036602">Observation of an Odd-Integer Quantum Hall Effect from Topological Surface States in Cd3As2</a></li>
+</li></ul>
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-20 15:48:54</wp:post_date>
+      <wp:post_date_gmt>2024-12-20 15:48:54</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 19 — Daily Thoughts</title>
+      <pubDate>Thu, 19 Dec 2024 03:38:15 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 19 03:38:15.073466</h3>
+<p>
+    I forgot to write these days, I was busy about my midterm 
+    check of my theis. I finished yesterday.
+</p>
+<p>
+    I really need to adjust my schedule, go to bed earlier,  
+    get up earlier.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-19 03:38:15</wp:post_date>
+      <wp:post_date_gmt>2024-12-19 03:38:15</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 13 — Daily Thoughts</title>
+      <pubDate>Fri, 13 Dec 2024 12:36:29 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 13 12:36:29.214697</h3>
+<p>
+    Not so much to say today. I read the tokura's article about half quantized 
+    <a href="https://www.nature.com/articles/s41567-021-01490-y">Experimental signature of the parity anomaly in a semi-magnetic topological insulator.</a> 
+    Still there are some questions I didn't quite understand such as 
+    why the Rxx of half-quantized is not zero. I need to think twice.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-13 12:36:29</wp:post_date>
+      <wp:post_date_gmt>2024-12-13 12:36:29</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 12 — Daily Thoughts</title>
+      <pubDate>Thu, 12 Dec 2024 14:38:33 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 12 14:38:33.023860</h3>
+<p>
+    Today I tested MnTe wet etching recipe with Lingjie, 
+    H3PO4: H2O2 : H2O = 1 : 1 : 25 for 2 minutes is a good 
+    way. Good job!
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-12 14:38:33</wp:post_date>
+      <wp:post_date_gmt>2024-12-12 14:38:33</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 12 — Daily Thoughts</title>
+      <pubDate>Thu, 12 Dec 2024 05:15:29 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 12 05:15:29.845248</h3>
+<p>
+    Last three days I had a short trip to Philadelphia, it is a 
+    lovely city.
+</p>
+<p>
+    Today I listened the talk by Xiao-Xiao Zhang, University of Florida 
+    about using optical methods to detect spin flop in AFM, nice talk.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-12 05:15:29</wp:post_date>
+      <wp:post_date_gmt>2024-12-12 05:15:29</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 8 — Daily Thoughts</title>
+      <pubDate>Sun, 08 Dec 2024 12:08:13 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 8 12:08:13.538768</h3>
+<p>
+    Today I did nothing about research excpet reading condensed matter 
+    field theory for half an hour. I gained deeper understanding of 
+    Feynman path integral.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-08 12:08:13</wp:post_date>
+      <wp:post_date_gmt>2024-12-08 12:08:13</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Physics / Condensed matter field
+                                                        theory — 2024.12.8</title>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024.12.8</h4>
+<p>
+<a href="https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Essential_Graduate_Physics_-_Quantum_Mechanics_(Likharev)/05%3A_Some_Exactly_Solvable_Problems/5.03%3A_The_Feynman_Path_Integral">
+                                                                This page</a> intepert the Feynman path integral very well.
+                                                            </p>
+]]></content:encoded>
+      <wp:post_date>2024-12-08 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-12-08 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 7 — Daily Thoughts</title>
+      <pubDate>Sat, 07 Dec 2024 02:22:44 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 7 02:22:44.618236</h3>
+<p>
+    Almost forgot... Recently I have been busy with the meeting with the professors. 
+    Today, I have a meeting with Roland Kawamaji, it was pretty good.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-07 02:22:44</wp:post_date>
+      <wp:post_date_gmt>2024-12-07 02:22:44</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 4 — Daily Thoughts</title>
+      <pubDate>Wed, 04 Dec 2024 13:12:52 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 4 13:12:52.240397</h3>
+<p>
+    I bought kindles for my brother and cousin, it's pretty good. 
+    Today I talked with Bomin about how to make slides for intriducing my work, he gave some really useful advice, going to use those ideas 
+    for my slides!
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-04 13:12:52</wp:post_date>
+      <wp:post_date_gmt>2024-12-04 13:12:52</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 3 — Daily Thoughts</title>
+      <pubDate>Tue, 03 Dec 2024 15:01:18 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 3 15:01:18.085962</h3>
+<p>
+    Seven emails have been sent, good job! Need to make slides for meetings with professors. 
+</p>
+<p>
+    Also, I need to prepare my the graduatiom thesis as soon as possible.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-03 15:01:18</wp:post_date>
+      <wp:post_date_gmt>2024-12-03 15:01:18</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 2 — Daily Thoughts</title>
+      <pubDate>Mon, 02 Dec 2024 23:52:17 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 2 23:52:17.736663</h3>
+<p>
+    Forgot to write yesterday, no so much to say anyway. Finally after Thanksgiving, I sent emails to professors. Now it's time for waiting. 
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-02 23:52:17</wp:post_date>
+      <wp:post_date_gmt>2024-12-02 23:52:17</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Dec 1 — Daily Thoughts</title>
+      <pubDate>Sun, 01 Dec 2024 13:27:20 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Dec 1 13:27:20.603520</h3>
+<p>
+    I still didn't do a lot of work today. But I learnt 
+    <b>It is very important not to leak reaserch subject to other groups!</b>
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-12-01 13:27:20</wp:post_date>
+      <wp:post_date_gmt>2024-12-01 13:27:20</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 30 — Daily Thoughts</title>
+      <pubDate>Sat, 30 Nov 2024 12:59:06 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov 30 12:59:06.008617</h3>
+<p>
+    No work has been done today. No group meeting also. Just rest for a while. 
+    Chess is so interesting, I am going to be a GM soon.
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-11-30 12:59:06</wp:post_date>
+      <wp:post_date_gmt>2024-11-30 12:59:06</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 29 — Daily Thoughts</title>
+      <pubDate>Fri, 29 Nov 2024 11:59:56 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    29
+                                                                                    11:59:56.159902</h3>
+<p>
+                                                                                    Not
+                                                                                    too
+                                                                                    much
+                                                                                    to
+                                                                                    say,
+                                                                                    today
+                                                                                    is
+                                                                                    thanksgiving,
+                                                                                    I
+                                                                                    didn't
+                                                                                    go
+                                                                                    to
+                                                                                    the
+                                                                                    lab
+                                                                                    and
+                                                                                    stayed
+                                                                                    at
+                                                                                    home.
+                                                                                    I
+                                                                                    had
+                                                                                    dinner
+                                                                                    with
+                                                                                    Lingjie
+                                                                                    and
+                                                                                    Zijie,
+                                                                                    really
+                                                                                    enjoyable.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-29 11:59:56</wp:post_date>
+      <wp:post_date_gmt>2024-11-29 11:59:56</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Physics / Condensed matter field
+                                                        theory — 2024.11.29</title>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024.11.29</h4>
+<p>
+                                                            The crucial point to
+                                                            understand Feynman
+                                                            path integral of
+                                                            Harmonic ossilators
+                                                            is that
+                                                            in the momentum
+                                                            space the particle
+                                                            is actually free, so
+                                                            the integral is a
+                                                            constant.
+                                                            Also, the paths near
+                                                            classic path is just
+                                                            like classic
+                                                            Harmonic ossilators.
+                                                        </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-29 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-29 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Physics / Condensed matter field
+                                                        theory — 2024.11.29</title>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024.11.29</h4>
+<p>
+                                                            Anti-symmetry and symmetry are very useful thoughts when sloving 
+                                                            two-body bonding problem. Just consider Hamiltonian to be a 
+                                                            2D matrix, and add bonding term to it. The solution will come 
+                                                            two terms as anti-symmetry and symmetry with different energy.
+                                                        </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-29 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-29 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 28 — Daily Thoughts</title>
+      <pubDate>Thu, 28 Nov 2024 13:59:42 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    28
+                                                                                    13:59:42.206238</h3>
+<p>
+                                                                                    Today
+                                                                                    I
+                                                                                    still
+                                                                                    wired
+                                                                                    two
+                                                                                    samples,
+                                                                                    one
+                                                                                    for
+                                                                                    Zijie,
+                                                                                    one
+                                                                                    for
+                                                                                    Lingjie.
+                                                                                </p>
+<p>
+                                                                                    Happy
+                                                                                    Thanksgiving.
+                                                                                    Tommorrow
+                                                                                    I
+                                                                                    will
+                                                                                    go
+                                                                                    to
+                                                                                    Lingjie's
+                                                                                    home
+                                                                                    and
+                                                                                    eat
+                                                                                    hotpot
+                                                                                    with
+                                                                                    my
+                                                                                    roasted
+                                                                                    chicken.
+                                                                                    Nice!
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-28 13:59:42</wp:post_date>
+      <wp:post_date_gmt>2024-11-28 13:59:42</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 27 — Daily Thoughts</title>
+      <pubDate>Wed, 27 Nov 2024 13:47:13 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    27
+                                                                                    13:47:13.950479</h3>
+<p>
+                                                                                    Today
+                                                                                    I
+                                                                                    helped
+                                                                                    Zijie
+                                                                                    and
+                                                                                    Lingjie
+                                                                                    wire
+                                                                                    two
+                                                                                    samples.
+                                                                                    Arrived
+                                                                                    home
+                                                                                    very
+                                                                                    late,
+                                                                                    the
+                                                                                    street
+                                                                                    was
+                                                                                    empty,
+                                                                                    I
+                                                                                    walked
+                                                                                    home
+                                                                                    from
+                                                                                    lab,
+                                                                                    feeling
+                                                                                    very
+                                                                                    lonely.
+                                                                                    But
+                                                                                    the
+                                                                                    sky
+                                                                                    was
+                                                                                    really
+                                                                                    beautiful,
+                                                                                    the
+                                                                                    stars
+                                                                                    were
+                                                                                    shining.
+                                                                                </p>
+<p>
+                                                                                    Also
+                                                                                    I
+                                                                                    tried
+                                                                                    to
+                                                                                    understand
+                                                                                    the
+                                                                                    fundmental
+                                                                                    thinking
+                                                                                    ways
+                                                                                    in
+                                                                                    field
+                                                                                    theory.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-27 13:47:13</wp:post_date>
+      <wp:post_date_gmt>2024-11-27 13:47:13</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 26 — Daily Thoughts</title>
+      <pubDate>Tue, 26 Nov 2024 14:14:51 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    26
+                                                                                    14:14:51.490886</h3>
+<p>
+                                                                                    Opps,
+                                                                                    I
+                                                                                    forgot
+                                                                                    to
+                                                                                    write
+                                                                                    diary
+                                                                                    yesterday.
+                                                                                    Today
+                                                                                    I
+                                                                                    just
+                                                                                    helped
+                                                                                    wire
+                                                                                    samples
+                                                                                    for
+                                                                                    Lingjie
+                                                                                    and
+                                                                                    Zijie.
+                                                                                </p>
+<p>
+                                                                                    I
+                                                                                    feel
+                                                                                    like
+                                                                                    that
+                                                                                    I
+                                                                                    need
+                                                                                    to
+                                                                                    learn
+                                                                                    more
+                                                                                    about
+                                                                                    physics
+                                                                                    as
+                                                                                    well
+                                                                                    as
+                                                                                    English.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-26 14:14:51</wp:post_date>
+      <wp:post_date_gmt>2024-11-26 14:14:51</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 24 — Daily Thoughts</title>
+      <pubDate>Sun, 24 Nov 2024 13:13:11 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    24
+                                                                                    13:13:11.347444</h3>
+<p>
+                                                                                    Today
+                                                                                    I
+                                                                                    didn't
+                                                                                    go
+                                                                                    to
+                                                                                    the
+                                                                                    lab,
+                                                                                    just
+                                                                                    take
+                                                                                    a
+                                                                                    rest.
+                                                                                    Land
+                                                                                    chess
+                                                                                    is
+                                                                                    such
+                                                                                    an
+                                                                                    interesting
+                                                                                    game,
+                                                                                    once
+                                                                                    you
+                                                                                    begin,
+                                                                                    can't
+                                                                                    stop.
+                                                                                </p>
+<p>
+                                                                                    Tomorrow
+                                                                                    remember
+                                                                                    to
+                                                                                    help
+                                                                                    zijie
+                                                                                    wire
+                                                                                    a
+                                                                                    sample.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-24 13:13:11</wp:post_date>
+      <wp:post_date_gmt>2024-11-24 13:13:11</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 23 — Daily Thoughts</title>
+      <pubDate>Sat, 23 Nov 2024 14:19:07 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    23
+                                                                                    14:19:07.635939</h3>
+<p>
+                                                                                    Today
+                                                                                    Lingjie
+                                                                                    graduated,
+                                                                                    we
+                                                                                    drunk
+                                                                                    Champin
+                                                                                    together.
+                                                                                    Congradulations
+                                                                                    to
+                                                                                    him!
+                                                                                    I
+                                                                                    was
+                                                                                    superised
+                                                                                    to
+                                                                                    find
+                                                                                    Jiatao
+                                                                                    has
+                                                                                    talked
+                                                                                    to
+                                                                                    many
+                                                                                    professors
+                                                                                    yet.
+                                                                                    I
+                                                                                    need
+                                                                                    to
+                                                                                    send
+                                                                                    more
+                                                                                    e-mials
+                                                                                    after
+                                                                                    thanksgiving.
+                                                                                </p>
+<p>
+                                                                                    I
+                                                                                    also
+                                                                                    read
+                                                                                    about
+                                                                                    some
+                                                                                    paper
+                                                                                    about
+                                                                                    topological
+                                                                                    semimetals,
+                                                                                    TaIrTe4
+                                                                                    is
+                                                                                    an
+                                                                                    interesting
+                                                                                    materials
+                                                                                    actually.
+                                                                                    Maybe
+                                                                                    I
+                                                                                    should
+                                                                                    use
+                                                                                    it
+                                                                                    as
+                                                                                    the
+                                                                                    platform
+                                                                                    for
+                                                                                    my
+                                                                                    graudate
+                                                                                    thesis.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-23 14:19:07</wp:post_date>
+      <wp:post_date_gmt>2024-11-23 14:19:07</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 22 — Daily Thoughts</title>
+      <pubDate>Fri, 22 Nov 2024 12:59:47 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    22
+                                                                                    12:59:47.808194</h3>
+<p>
+                                                                                    Not
+                                                                                    many
+                                                                                    things
+                                                                                    to
+                                                                                    say.
+                                                                                    But
+                                                                                    ETS
+                                                                                    is
+                                                                                    such
+                                                                                    a
+                                                                                    asshole.
+                                                                                    My
+                                                                                    TOFEL
+                                                                                    socre
+                                                                                    is
+                                                                                    91,
+                                                                                    not
+                                                                                    even
+                                                                                    higher
+                                                                                    than
+                                                                                    my
+                                                                                    first
+                                                                                    time.
+                                                                                </p>
+<p>
+                                                                                    I
+                                                                                    should
+                                                                                    read
+                                                                                    more
+                                                                                    paper
+                                                                                    on
+                                                                                    topological
+                                                                                    semimetals.
+                                                                                    Need
+                                                                                    to
+                                                                                    come
+                                                                                    up
+                                                                                    with
+                                                                                    a
+                                                                                    new
+                                                                                    idea.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-22 12:59:47</wp:post_date>
+      <wp:post_date_gmt>2024-11-22 12:59:47</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Dialog of Changes</title>
+      <pubDate>Thu, 21 Nov 2024 11:48:15 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="dialog"><![CDATA[Dialog]]></category>
+      <content:encoded><![CDATA[
+<h1>Dialg of changes</h1>
+<p>Version 1.00 has published. Basic
+                                        structures
+                                        is confirmed.</p>
+<p>Version1.10</p>
+<p>Use python to help type-in contexts.
+                                        Advantage:
+                                        <ul>
+<li>won't be disturbed by so many
+                                                contexts</li>
+<li>effecinet and elegant</li>
+<li>easier to process and orgnize
+                                                contexts</li>
+</ul>
+</p>
+<p>Version1.20 11:48:15.103370</p><p>
+                                        The update rate is really fast!
+                                        This Version create collapsible div for
+                                        the website.
+                                        And add time to each edit.
+                                    </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-21 11:48:15</wp:post_date>
+      <wp:post_date_gmt>2024-11-21 11:48:15</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 21 — Daily Thoughts</title>
+      <pubDate>Thu, 21 Nov 2024 11:41:43 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    21
+                                                                                    11:41:43.833514</h3>
+<p>
+                                                                                    Today
+                                                                                    I
+                                                                                    updated
+                                                                                    the
+                                                                                    apperance
+                                                                                    of
+                                                                                    the
+                                                                                    website
+                                                                                    and
+                                                                                    added
+                                                                                    collapsible
+                                                                                    div
+                                                                                    into
+                                                                                    the
+                                                                                    HTML.
+                                                                                    Now
+                                                                                    the
+                                                                                    website
+                                                                                    looks
+                                                                                    much
+                                                                                    sharper.
+                                                                                    Good
+                                                                                    job!
+                                                                                </p>
+<p>
+                                                                                    One
+                                                                                    more
+                                                                                    word:
+                                                                                    I
+                                                                                    really
+                                                                                    need
+                                                                                    to
+                                                                                    get
+                                                                                    up
+                                                                                    earlier.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-21 11:41:43</wp:post_date>
+      <wp:post_date_gmt>2024-11-21 11:41:43</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Program / HTML,CSS,JS — 2024.11.21</title>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024.11.21</h4>
+<p>
+                                                            A very useful
+                                                            website <a href="https://www.freecodecamp.org/learn/">freecodecamp</a>
+                                                            to learn code.
+                                                        </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-21 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-21 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Program / Python — 2024.11.21</title>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024.11.21</h4>
+<p>
+                                                            Book <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Python
+                                                                Data Science
+                                                                Handbook</a>
+</p>
+]]></content:encoded>
+      <wp:post_date>2024-11-21 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-21 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 20 — Daily Thoughts</title>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                                    20</h3>
+<p>I
+                                                                                    have
+                                                                                    been
+                                                                                    working
+                                                                                    on
+                                                                                    HTML
+                                                                                    type-in
+                                                                                    python
+                                                                                    program
+                                                                                    yesterday
+                                                                                    and
+                                                                                    today.
+                                                                                    It
+                                                                                    was
+                                                                                    great
+                                                                                    fun.
+                                                                                    The
+                                                                                    program
+                                                                                    has
+                                                                                    basic
+                                                                                    function
+                                                                                    now.
+                                                                                    Very
+                                                                                    happy
+                                                                                    about
+                                                                                    this!
+                                                                                </p>
+<p>Today
+                                                                                    I
+                                                                                    sent
+                                                                                    e-mial
+                                                                                    to
+                                                                                    Cory
+                                                                                    Dean,
+                                                                                    no
+                                                                                    response
+                                                                                    yet.
+                                                                                    I
+                                                                                    think
+                                                                                    maybe
+                                                                                    he
+                                                                                    is
+                                                                                    not
+                                                                                    interested
+                                                                                    in
+                                                                                    me.
+                                                                                    But
+                                                                                    don't
+                                                                                    give
+                                                                                    up!
+                                                                                    Just
+                                                                                    keep
+                                                                                    trying.
+                                                                                    Sending
+                                                                                    e-mail
+                                                                                    is
+                                                                                    at
+                                                                                    least
+                                                                                    better
+                                                                                    than
+                                                                                    doing
+                                                                                    noting.
+                                                                                </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-20 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-20 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 19 — Daily Thoughts</title>
+      <pubDate>Tue, 19 Nov 2024 00:29:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                            19
+                                                                            00:29</h3>
+<p>Today,
+                                                                            I
+                                                                            wired
+                                                                            a
+                                                                            sample
+                                                                            for
+                                                                            zijie
+                                                                            in
+                                                                            the
+                                                                            afeternoon
+                                                                            and
+                                                                            listned
+                                                                            to
+                                                                            Lingjie's
+                                                                            denfence
+                                                                            at
+                                                                            night,
+                                                                            learnt
+                                                                            a
+                                                                            lot
+                                                                            about
+                                                                            switching
+                                                                            of
+                                                                            QAH.
+                                                                            Also,
+                                                                            I
+                                                                            think
+                                                                            I
+                                                                            should
+                                                                            make
+                                                                            up
+                                                                            my
+                                                                            mind
+                                                                            to
+                                                                            send
+                                                                            letters
+                                                                            to
+                                                                            professors.
+                                                                            Must
+                                                                            do
+                                                                            it
+                                                                            tomorrow.
+                                                                        </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-19 00:29:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-19 00:29:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 19 — Daily Thoughts</title>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3 style="color: red;">Nov
+                                                                            19</h3>
+<p style="color: red;">test.
+                                                                                This
+                                                                                is
+                                                                                the
+                                                                                first
+                                                                                pragraph
+                                                                                written
+                                                                                by
+                                                                                python.</p>
+]]></content:encoded>
+      <wp:post_date>2024-11-19 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-19 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>2024 Nov 18 — Daily Thoughts</title>
+      <pubDate>Mon, 18 Nov 2024 00:14:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="daily-thoughts"><![CDATA[Daily Thoughts]]></category>
+      <content:encoded><![CDATA[
+<h3>Nov
+                                                                            18
+                                                                            00:14</h3>
+<p>Now
+                                                                            is
+                                                                            Nov
+                                                                            18
+                                                                            00:14,
+                                                                            I
+                                                                            have
+                                                                            made
+                                                                            up
+                                                                            my
+                                                                            mind
+                                                                            to
+                                                                            build
+                                                                            a
+                                                                            web
+                                                                            for
+                                                                            myself.
+                                                                            Yesterday(actually
+                                                                            the
+                                                                            day
+                                                                            before
+                                                                            yesterday)
+                                                                            I
+                                                                            learnt
+                                                                            something
+                                                                            about
+                                                                            HTML,
+                                                                            I
+                                                                            thought
+                                                                            it
+                                                                            was
+                                                                            perfect
+                                                                            to
+                                                                            keep
+                                                                            a
+                                                                            record,
+                                                                            and
+                                                                            I
+                                                                            also
+                                                                            have
+                                                                            the
+                                                                            idea
+                                                                            to
+                                                                            write
+                                                                            everything
+                                                                            interesting
+                                                                            down.
+                                                                            HTML
+                                                                            is
+                                                                            great,
+                                                                            and
+                                                                            I
+                                                                            can
+                                                                            add
+                                                                            some
+                                                                            fancy
+                                                                            stuff
+                                                                            after
+                                                                            I
+                                                                            learn
+                                                                            CSS.
+                                                                            So
+                                                                            I
+                                                                            do
+                                                                            this.
+                                                                            Great
+                                                                            start,
+                                                                            I
+                                                                            wish
+                                                                            I
+                                                                            can
+                                                                            keep
+                                                                            on.
+                                                                        </p>
+<p>Today
+                                                                            actually
+                                                                            not
+                                                                            many
+                                                                            things
+                                                                            to
+                                                                            say,
+                                                                            I
+                                                                            played
+                                                                            badminton
+                                                                            and
+                                                                            knew
+                                                                            many
+                                                                            things
+                                                                            about
+                                                                            Majorana
+                                                                            and
+                                                                            Hao
+                                                                            Zhang
+                                                                            from
+                                                                            Cuizu,
+                                                                            very
+                                                                            interesting.
+                                                                        </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-18 00:14:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-18 00:14:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Interesting: Program / HTML,CSS,JS — 2024 Nov 18</title>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="interesting-things"><![CDATA[Interesting Things]]></category>
+      <content:encoded><![CDATA[
+<h4>2024 Nov 18</h4>
+<p>I learnt basic
+                                                            knowledge
+                                                            about HTML and CSS
+                                                            today
+                                                            from website <a href="https://www.snoopcode.com/">snoopcode</a>.</p>
+]]></content:encoded>
+      <wp:post_date>2024-11-18 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-18 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+    </item>
+    
+    <item>
+      <title>Preface</title>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[zhiyuan]]></dc:creator>
+      <category domain="category" nicename="research-diray"><![CDATA[Research Diray]]></category>
+      <category domain="category" nicename="preface"><![CDATA[Preface]]></category>
+      <content:encoded><![CDATA[
+<h1>Welcome to My Research Diary</h1>
+<p>Welcome to my research diary, I will put
+                                everything
+                                interesting
+                                here.
+                                Established by Zhiyuan, November 17,2024,
+                                Pennsylvania.</p>
+<h1>Basic structure</h1>
+<p>Basics structure should contain daily thoughts,
+                                new-learnt
+                                interesting things, dialog of changes, and so
+                                on.</p>
+<h2>Dialog of changes</h2>
+                            So, dialog of changes is dialog of changes.
+                            <h2>Daily thoughts</h2>
+<p>The diary contains daily thoughts when I do
+                                research.
+                                When writes daily thoughts:
+                                <ul>
+<li>"daily thoughts" should be
+                                        <b>h1</b></li>
+<li>the year should be <b>h2</b></li>
+<li>the date should be title <b>h3</b></li>
+</ul>
+                                and other things like feelings, outcomes and
+                                experiment preduces
+                                should be written down.
+                            </p>
+<h2>New-learnt interesting things</h2>
+<p>The diary should contain interesting things I
+                                just
+                                learnt.
+                                When writes new-learnt interesting things:
+                                <ul>
+<li>"New learnt Interesting things" should
+                                        be
+                                        <b>h1</b></li>
+<li>the area should be <b>h2</b></li>
+<li>the year and date should be title
+                                        <b>h3</b></li>
+</ul>
+                                and also keep record of the source and critical
+                                points.
+                            </p>
+]]></content:encoded>
+      <wp:post_date>2024-11-17 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2024-11-17 00:00:00</wp:post_date_gmt>
+      <wp:status>publish</wp:status>
+      <wp:post_type>page</wp:post_type>
+    </item>
+    
+</channel>
+</rss>
